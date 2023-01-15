@@ -9,26 +9,20 @@ toc_label: "Sitemap"
 toc_icon: "layer-group"
 toc_sticky: true
 header:
-  overlay_image: img/picture3.jpg
+  overlay_image: img/one-row-of-players.jpg
   image_description: "Description of the picture"
 gallery:
-  - image_path: img/picture1.png
-    url: img/picture1.png
+  - image_path: img/organisers.jpg
+    url: img/organisers.jpg
     alt: "Some picture"
-  - image_path: img/picture2.jpg
-    url: img/picture2.jpg
+  - image_path: img/two-rows-of-players.jpg
+    url: img/two-rows-of-players.jpg
     alt: "Some picture"
-  - image_path: img/picture4.jpg
-    url: img/picture4.jpg
+  - image_path: img/one-row-of-players.jpg
+    url: img/one-row-of-players.jpg
     alt: "Some picture"
-  - image_path: img/picture5.jpg
-    url: img/picture5.jpg
-    alt: "Some picture"
-  - image_path: img/picture6.png
-    url: img/picture6.png
-    alt: "Some picture"
-  - image_path: img/picture7.png
-    url: img/picture7.png
+  - image_path: img/stream-table.jpg
+    url: img/stream-table.jpg
     alt: "Some picture"
 members:
   - image_path: img/leonin-arbiter.jpg
