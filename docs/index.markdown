@@ -28,7 +28,7 @@ members:
   - image_path: img/leonin-arbiter.jpg
     title: "Jari"
     excerpt: "President of the association, ex pro tour player."
-  - image_path: img/thalia-guardian-of-thraben.jpg
+  - image_path: img/antoinealb.jpg
     title: "Antoine"
     excerpt: "Certified Magic: The Gathering referee."
   - image_path: img/omnath-locus-of-creation.jpg
