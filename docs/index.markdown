@@ -33,7 +33,7 @@ members:
     excerpt: "Certified Magic: The Gathering referee."
   - image_path: img/omnath-locus-of-creation.jpg
     title: "Dae-Jin"
-  - image_path: img/lord-of-atlantis.jpg
+  - image_path: img/filip.jpg
     title: "Filip"
   - image_path: img/ragavan-nimble-pilferer.jpg
     title: "Dario"
