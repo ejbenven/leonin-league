@@ -14,30 +14,37 @@ header:
 gallery:
   - image_path: img/organisers.jpg
     url: img/organisers.jpg
-    alt: "Some picture"
+    alt: "Organisers"
   - image_path: img/two-rows-of-players.jpg
     url: img/two-rows-of-players.jpg
-    alt: "Some picture"
+    alt: "Two rows of players"
   - image_path: img/one-row-of-players.jpg
     url: img/one-row-of-players.jpg
-    alt: "Some picture"
+    alt: "One row of players"
   - image_path: img/stream-table.jpg
     url: img/stream-table.jpg
-    alt: "Some picture"
+    alt: "Stream table"
+  - image_path: img/tigersushi-jan-1.jpg
+    url: img/tigersushi-jan-1.jpg
+    alt: "SUL january picture 1"
+  - image_path: img/tigersushi-jan-2.jpg
+    url: img/tigersushi-jan-2.jpg
+    alt: "SUL january stream table"
+  - image_path: img/tigersushi-jan-3.jpg
+    url: img/tigersushi-jan-3.jpg
+    alt: "SUL january picture 3"
 members:
-  - image_path: img/leonin-arbiter.jpg
+  - image_path: img/jari.png
     title: "Jari"
     excerpt: "President of the association, ex pro tour player."
   - image_path: img/antoinealb.jpg
     title: "Antoine"
     excerpt: "Certified Magic: The Gathering referee."
-  - image_path: img/omnath-locus-of-creation.jpg
+  - image_path: img/daejin.jpg
     title: "Dae-Jin"
   - image_path: img/filip.jpg
     title: "Filip"
-  - image_path: img/ragavan-nimble-pilferer.jpg
-    title: "Dario"
-  - image_path: img/death-s-shadow.jpg
+  - image_path: img/eloi.png
     title: "Eloi"
 ---
 
